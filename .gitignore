@@ -1,0 +1,10 @@
+.idea/
+.gradle
+*.iml
+*.log
+src/
+bin/
+pkg/
+*.exe
+.agollo
+vendor/
